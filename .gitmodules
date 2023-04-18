@@ -1,9 +1,0 @@
-[submodule "notebook-dotfiles"]
-	path = notebook-dotfiles
-	url = https://github.com/cofeek-codes/notebook-dotfiles
-[submodule "cofeek-codes-nvim"]
-	path = cofeek-codes-nvim
-	url = https://github.com/cofeek-codes/cofeek-codes-nvim
-[submodule "dotfiles-scripts"]
-	path = dotfiles-scripts
-	url = https://github.com/cofeek-codes/dotfiles-scripts
